@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Omar Elmasri</title>
-    <link>https://masriomarm.github.io/projects/</link>
+    <link>/projects/</link>
     <description>Recent content in Projects on Omar Elmasri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="https://masriomarm.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
